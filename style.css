@@ -16,7 +16,8 @@ p,ul{
   font-family: 'Josefin Slab', serif;";
 }
  img{
-  
+  max-width: 100%;
+  height: auto; 
  
  }  
   
