@@ -11,16 +11,21 @@ h2{
   text-align: center;
   font-family: 'Amatic SC', cursive;
 }
+
 h3{
  font-family: 'Josefin Slab', serif;"; 
 }
+
 p,ul{
   font-family: 'Josefin Slab', serif;";
 }
- img{
-   border: 20px solid black;
  
- 
+img{
+  border: 20px solid black;          
+  width: 15px;
+  height: 200px;
+  width: 15px;
+  object-fit: contain         /* put in object-fit:contain to mantain aspect ratio of image in diff. browsers/devices */
  }  
   
 
@@ -34,12 +39,6 @@ header{
  
 .google-font {
 font-family: 'Abril Fatface', serif;
-}
-
-img{
-  height: 200px;
-  width: 15px;
-
 }
 
 .center {
