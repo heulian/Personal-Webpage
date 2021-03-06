@@ -1,9 +1,9 @@
-background{
-  background-color: #C9B7AD;;          
+body{                                 /* background goes in body or can be its own class */
+  background: #C9B7AD;          
 }
 
 h1,header{
-  font-family: "Amatic SC", cursive;}
+  font-family: "Amatic SC", cursive;}       /*Google Font*/
 
 h2{
  border: 3px solid #668284;
@@ -56,9 +56,9 @@ a {
 
 
 a:link    { color:black;  }
-a:visited { color: #475B63;   }
+a:visited { color: #475B63;}
 a:hover   { color:#416788; }
 a:active  { color: #F4AFB4  }
 
-"font-family: 'Amatic SC', cursive;
+"font-family: 'Amatic SC', cursive;                   /*Google Fonts*/
 font-family: 'Josefin Slab', serif;"
